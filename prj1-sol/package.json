@@ -1,0 +1,12 @@
+{
+  "name": "proj1-sol",
+  "version": "1.0.0",
+  "description": "Name:\t\tPranav Sahu B-Number:\tB00759670 Email:\t\tpsahu1@binghamton.edu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
